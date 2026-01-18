@@ -27,3 +27,10 @@ optional arguments:
   -v, --verbose         Enable verbose output
   -o, --output          Export findings to JSON file
 ```
+
+## References
+
+The scanning logic and vulnerability patterns are based on the following security researches & tools:
+
+* **Methodology:** [Bitrix Pentest Full Guide](https://pentestnotes.ru/notes/bitrix_pentest_full/) — A comprehensive guide on auditing Bitrix CMS.
+* **Pattern Research:** [k1rurk/check_bitrix](https://github.com/k1rurk/check_bitrix) — Initial research on Bitrix-specific endpoints and vulnerability signatures.
